@@ -1,0 +1,11 @@
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.deps.json
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.runtimeconfig.json
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.runtimeconfig.dev.json
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.dll
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.pdb
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.csprojAssemblyReference.cache
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.AssemblyInfo.cs
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.dll
+D:\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.pdb

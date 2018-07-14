@@ -1,0 +1,11 @@
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\bin\Debug\netcoreapp2.0\Marks_else-if_Ladder.deps.json
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\bin\Debug\netcoreapp2.0\Marks_else-if_Ladder.runtimeconfig.json
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\bin\Debug\netcoreapp2.0\Marks_else-if_Ladder.runtimeconfig.dev.json
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\bin\Debug\netcoreapp2.0\Marks_else-if_Ladder.dll
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\bin\Debug\netcoreapp2.0\Marks_else-if_Ladder.pdb
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\obj\Debug\netcoreapp2.0\Marks_else-if_Ladder.csprojAssemblyReference.cache
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\obj\Debug\netcoreapp2.0\Marks_else-if_Ladder.csproj.CoreCompileInputs.cache
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\obj\Debug\netcoreapp2.0\Marks_else-if_Ladder.AssemblyInfoInputs.cache
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\obj\Debug\netcoreapp2.0\Marks_else-if_Ladder.AssemblyInfo.cs
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\obj\Debug\netcoreapp2.0\Marks_else-if_Ladder.dll
+D:\repos\Marks_else-if_Ladder\Marks_else-if_Ladder\obj\Debug\netcoreapp2.0\Marks_else-if_Ladder.pdb
