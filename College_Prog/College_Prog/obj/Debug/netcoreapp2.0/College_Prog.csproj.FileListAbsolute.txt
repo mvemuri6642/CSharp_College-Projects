@@ -1,0 +1,11 @@
+D:\repos\College_Prog\College_Prog\bin\Debug\netcoreapp2.0\College_Prog.deps.json
+D:\repos\College_Prog\College_Prog\bin\Debug\netcoreapp2.0\College_Prog.runtimeconfig.json
+D:\repos\College_Prog\College_Prog\bin\Debug\netcoreapp2.0\College_Prog.runtimeconfig.dev.json
+D:\repos\College_Prog\College_Prog\bin\Debug\netcoreapp2.0\College_Prog.dll
+D:\repos\College_Prog\College_Prog\bin\Debug\netcoreapp2.0\College_Prog.pdb
+D:\repos\College_Prog\College_Prog\obj\Debug\netcoreapp2.0\College_Prog.csprojAssemblyReference.cache
+D:\repos\College_Prog\College_Prog\obj\Debug\netcoreapp2.0\College_Prog.csproj.CoreCompileInputs.cache
+D:\repos\College_Prog\College_Prog\obj\Debug\netcoreapp2.0\College_Prog.AssemblyInfoInputs.cache
+D:\repos\College_Prog\College_Prog\obj\Debug\netcoreapp2.0\College_Prog.AssemblyInfo.cs
+D:\repos\College_Prog\College_Prog\obj\Debug\netcoreapp2.0\College_Prog.dll
+D:\repos\College_Prog\College_Prog\obj\Debug\netcoreapp2.0\College_Prog.pdb

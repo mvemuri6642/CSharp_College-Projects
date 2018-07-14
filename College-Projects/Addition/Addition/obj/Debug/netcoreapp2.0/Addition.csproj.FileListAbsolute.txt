@@ -1,0 +1,11 @@
+D:\repos\Addition\Addition\bin\Debug\netcoreapp2.0\Addition.deps.json
+D:\repos\Addition\Addition\bin\Debug\netcoreapp2.0\Addition.runtimeconfig.json
+D:\repos\Addition\Addition\bin\Debug\netcoreapp2.0\Addition.runtimeconfig.dev.json
+D:\repos\Addition\Addition\bin\Debug\netcoreapp2.0\Addition.dll
+D:\repos\Addition\Addition\bin\Debug\netcoreapp2.0\Addition.pdb
+D:\repos\Addition\Addition\obj\Debug\netcoreapp2.0\Addition.csprojAssemblyReference.cache
+D:\repos\Addition\Addition\obj\Debug\netcoreapp2.0\Addition.csproj.CoreCompileInputs.cache
+D:\repos\Addition\Addition\obj\Debug\netcoreapp2.0\Addition.AssemblyInfoInputs.cache
+D:\repos\Addition\Addition\obj\Debug\netcoreapp2.0\Addition.AssemblyInfo.cs
+D:\repos\Addition\Addition\obj\Debug\netcoreapp2.0\Addition.dll
+D:\repos\Addition\Addition\obj\Debug\netcoreapp2.0\Addition.pdb

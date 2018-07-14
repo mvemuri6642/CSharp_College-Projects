@@ -1,0 +1,11 @@
+D:\repos\Constant_Program\Constant_Program\bin\Debug\netcoreapp2.0\Constant_Program.deps.json
+D:\repos\Constant_Program\Constant_Program\bin\Debug\netcoreapp2.0\Constant_Program.runtimeconfig.json
+D:\repos\Constant_Program\Constant_Program\bin\Debug\netcoreapp2.0\Constant_Program.runtimeconfig.dev.json
+D:\repos\Constant_Program\Constant_Program\bin\Debug\netcoreapp2.0\Constant_Program.dll
+D:\repos\Constant_Program\Constant_Program\bin\Debug\netcoreapp2.0\Constant_Program.pdb
+D:\repos\Constant_Program\Constant_Program\obj\Debug\netcoreapp2.0\Constant_Program.csprojAssemblyReference.cache
+D:\repos\Constant_Program\Constant_Program\obj\Debug\netcoreapp2.0\Constant_Program.csproj.CoreCompileInputs.cache
+D:\repos\Constant_Program\Constant_Program\obj\Debug\netcoreapp2.0\Constant_Program.AssemblyInfoInputs.cache
+D:\repos\Constant_Program\Constant_Program\obj\Debug\netcoreapp2.0\Constant_Program.AssemblyInfo.cs
+D:\repos\Constant_Program\Constant_Program\obj\Debug\netcoreapp2.0\Constant_Program.dll
+D:\repos\Constant_Program\Constant_Program\obj\Debug\netcoreapp2.0\Constant_Program.pdb
