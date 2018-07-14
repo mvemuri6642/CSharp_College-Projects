@@ -1,0 +1,10 @@
+D:\repos\Leap_Year\Leap_Year\bin\Debug\netcoreapp2.0\Leap_Year.deps.json
+D:\repos\Leap_Year\Leap_Year\bin\Debug\netcoreapp2.0\Leap_Year.runtimeconfig.json
+D:\repos\Leap_Year\Leap_Year\bin\Debug\netcoreapp2.0\Leap_Year.runtimeconfig.dev.json
+D:\repos\Leap_Year\Leap_Year\bin\Debug\netcoreapp2.0\Leap_Year.dll
+D:\repos\Leap_Year\Leap_Year\bin\Debug\netcoreapp2.0\Leap_Year.pdb
+D:\repos\Leap_Year\Leap_Year\obj\Debug\netcoreapp2.0\Leap_Year.csproj.CoreCompileInputs.cache
+D:\repos\Leap_Year\Leap_Year\obj\Debug\netcoreapp2.0\Leap_Year.AssemblyInfoInputs.cache
+D:\repos\Leap_Year\Leap_Year\obj\Debug\netcoreapp2.0\Leap_Year.AssemblyInfo.cs
+D:\repos\Leap_Year\Leap_Year\obj\Debug\netcoreapp2.0\Leap_Year.dll
+D:\repos\Leap_Year\Leap_Year\obj\Debug\netcoreapp2.0\Leap_Year.pdb

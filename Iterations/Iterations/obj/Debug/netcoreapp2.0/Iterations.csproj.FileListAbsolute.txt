@@ -1,0 +1,11 @@
+D:\repos\Iterations\Iterations\bin\Debug\netcoreapp2.0\Iterations.deps.json
+D:\repos\Iterations\Iterations\bin\Debug\netcoreapp2.0\Iterations.runtimeconfig.json
+D:\repos\Iterations\Iterations\bin\Debug\netcoreapp2.0\Iterations.runtimeconfig.dev.json
+D:\repos\Iterations\Iterations\bin\Debug\netcoreapp2.0\Iterations.dll
+D:\repos\Iterations\Iterations\bin\Debug\netcoreapp2.0\Iterations.pdb
+D:\repos\Iterations\Iterations\obj\Debug\netcoreapp2.0\Iterations.csprojAssemblyReference.cache
+D:\repos\Iterations\Iterations\obj\Debug\netcoreapp2.0\Iterations.csproj.CoreCompileInputs.cache
+D:\repos\Iterations\Iterations\obj\Debug\netcoreapp2.0\Iterations.AssemblyInfoInputs.cache
+D:\repos\Iterations\Iterations\obj\Debug\netcoreapp2.0\Iterations.AssemblyInfo.cs
+D:\repos\Iterations\Iterations\obj\Debug\netcoreapp2.0\Iterations.dll
+D:\repos\Iterations\Iterations\obj\Debug\netcoreapp2.0\Iterations.pdb

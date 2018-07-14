@@ -1,0 +1,11 @@
+D:\repos\Even_Numbers\Even_Numbers\bin\Debug\netcoreapp2.0\Even_Numbers.deps.json
+D:\repos\Even_Numbers\Even_Numbers\bin\Debug\netcoreapp2.0\Even_Numbers.runtimeconfig.json
+D:\repos\Even_Numbers\Even_Numbers\bin\Debug\netcoreapp2.0\Even_Numbers.runtimeconfig.dev.json
+D:\repos\Even_Numbers\Even_Numbers\bin\Debug\netcoreapp2.0\Even_Numbers.dll
+D:\repos\Even_Numbers\Even_Numbers\bin\Debug\netcoreapp2.0\Even_Numbers.pdb
+D:\repos\Even_Numbers\Even_Numbers\obj\Debug\netcoreapp2.0\Even_Numbers.csproj.CoreCompileInputs.cache
+D:\repos\Even_Numbers\Even_Numbers\obj\Debug\netcoreapp2.0\Even_Numbers.AssemblyInfoInputs.cache
+D:\repos\Even_Numbers\Even_Numbers\obj\Debug\netcoreapp2.0\Even_Numbers.AssemblyInfo.cs
+D:\repos\Even_Numbers\Even_Numbers\obj\Debug\netcoreapp2.0\Even_Numbers.dll
+D:\repos\Even_Numbers\Even_Numbers\obj\Debug\netcoreapp2.0\Even_Numbers.pdb
+D:\repos\Even_Numbers\Even_Numbers\obj\Debug\netcoreapp2.0\Even_Numbers.csprojAssemblyReference.cache

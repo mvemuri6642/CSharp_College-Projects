@@ -1,0 +1,11 @@
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.csprojAssemblyReference.cache
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.AssemblyInfoInputs.cache
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.AssemblyInfo.cs
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.deps.json
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.runtimeconfig.json
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.runtimeconfig.dev.json
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.dll
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.pdb
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.dll
+C:\Users\Manu Teja\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.pdb
