@@ -1,0 +1,10 @@
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\bin\Debug\netcoreapp2.0\Arithmetic_Operators.deps.json
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\bin\Debug\netcoreapp2.0\Arithmetic_Operators.runtimeconfig.json
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\bin\Debug\netcoreapp2.0\Arithmetic_Operators.runtimeconfig.dev.json
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\bin\Debug\netcoreapp2.0\Arithmetic_Operators.dll
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\bin\Debug\netcoreapp2.0\Arithmetic_Operators.pdb
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\obj\Debug\netcoreapp2.0\Arithmetic_Operators.csproj.CoreCompileInputs.cache
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\obj\Debug\netcoreapp2.0\Arithmetic_Operators.AssemblyInfoInputs.cache
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\obj\Debug\netcoreapp2.0\Arithmetic_Operators.AssemblyInfo.cs
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\obj\Debug\netcoreapp2.0\Arithmetic_Operators.dll
+D:\repos\Arithmetic_Operators\Arithmetic_Operators\obj\Debug\netcoreapp2.0\Arithmetic_Operators.pdb

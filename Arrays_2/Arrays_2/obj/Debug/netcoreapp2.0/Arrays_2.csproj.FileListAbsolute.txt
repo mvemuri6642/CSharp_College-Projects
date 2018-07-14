@@ -1,0 +1,11 @@
+D:\repos\Arrays_2\Arrays_2\bin\Debug\netcoreapp2.0\Arrays_2.deps.json
+D:\repos\Arrays_2\Arrays_2\bin\Debug\netcoreapp2.0\Arrays_2.runtimeconfig.json
+D:\repos\Arrays_2\Arrays_2\bin\Debug\netcoreapp2.0\Arrays_2.runtimeconfig.dev.json
+D:\repos\Arrays_2\Arrays_2\bin\Debug\netcoreapp2.0\Arrays_2.dll
+D:\repos\Arrays_2\Arrays_2\bin\Debug\netcoreapp2.0\Arrays_2.pdb
+D:\repos\Arrays_2\Arrays_2\obj\Debug\netcoreapp2.0\Arrays_2.csprojAssemblyReference.cache
+D:\repos\Arrays_2\Arrays_2\obj\Debug\netcoreapp2.0\Arrays_2.csproj.CoreCompileInputs.cache
+D:\repos\Arrays_2\Arrays_2\obj\Debug\netcoreapp2.0\Arrays_2.AssemblyInfoInputs.cache
+D:\repos\Arrays_2\Arrays_2\obj\Debug\netcoreapp2.0\Arrays_2.AssemblyInfo.cs
+D:\repos\Arrays_2\Arrays_2\obj\Debug\netcoreapp2.0\Arrays_2.dll
+D:\repos\Arrays_2\Arrays_2\obj\Debug\netcoreapp2.0\Arrays_2.pdb

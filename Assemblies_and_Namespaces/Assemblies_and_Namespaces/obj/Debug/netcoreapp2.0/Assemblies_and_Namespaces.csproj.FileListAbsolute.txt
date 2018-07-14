@@ -1,0 +1,11 @@
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\obj\Debug\netcoreapp2.0\Assemblies_and_Namespaces.csprojAssemblyReference.cache
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\obj\Debug\netcoreapp2.0\Assemblies_and_Namespaces.csproj.CoreCompileInputs.cache
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\obj\Debug\netcoreapp2.0\Assemblies_and_Namespaces.AssemblyInfoInputs.cache
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\obj\Debug\netcoreapp2.0\Assemblies_and_Namespaces.AssemblyInfo.cs
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\bin\Debug\netcoreapp2.0\Assemblies_and_Namespaces.deps.json
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\bin\Debug\netcoreapp2.0\Assemblies_and_Namespaces.runtimeconfig.json
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\bin\Debug\netcoreapp2.0\Assemblies_and_Namespaces.runtimeconfig.dev.json
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\bin\Debug\netcoreapp2.0\Assemblies_and_Namespaces.dll
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\bin\Debug\netcoreapp2.0\Assemblies_and_Namespaces.pdb
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\obj\Debug\netcoreapp2.0\Assemblies_and_Namespaces.dll
+D:\repos\Assemblies_and_Namespaces\Assemblies_and_Namespaces\obj\Debug\netcoreapp2.0\Assemblies_and_Namespaces.pdb

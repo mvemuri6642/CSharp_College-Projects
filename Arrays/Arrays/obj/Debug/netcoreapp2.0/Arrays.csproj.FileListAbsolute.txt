@@ -1,0 +1,22 @@
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.deps.json
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.json
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.dev.json
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.dll
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.pdb
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.csprojAssemblyReference.cache
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfo.cs
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.dll
+C:\Users\Manu Teja\source\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.pdb
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.deps.json
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.json
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.dev.json
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.dll
+D:\repos\Arrays\Arrays\bin\Debug\netcoreapp2.0\Arrays.pdb
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.csprojAssemblyReference.cache
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.csproj.CoreCompileInputs.cache
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfoInputs.cache
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfo.cs
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.dll
+D:\repos\Arrays\Arrays\obj\Debug\netcoreapp2.0\Arrays.pdb
