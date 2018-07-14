@@ -1,0 +1,11 @@
+D:\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp2.0\WhileIteration.csprojAssemblyReference.cache
+D:\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp2.0\WhileIteration.csproj.CoreCompileInputs.cache
+D:\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp2.0\WhileIteration.AssemblyInfoInputs.cache
+D:\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp2.0\WhileIteration.AssemblyInfo.cs
+D:\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp2.0\WhileIteration.deps.json
+D:\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp2.0\WhileIteration.runtimeconfig.json
+D:\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp2.0\WhileIteration.runtimeconfig.dev.json
+D:\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp2.0\WhileIteration.dll
+D:\repos\WhileIteration\WhileIteration\bin\Debug\netcoreapp2.0\WhileIteration.pdb
+D:\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp2.0\WhileIteration.dll
+D:\repos\WhileIteration\WhileIteration\obj\Debug\netcoreapp2.0\WhileIteration.pdb
