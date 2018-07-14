@@ -1,0 +1,11 @@
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\obj\Debug\netcoreapp2.0\3.Test_1.csprojAssemblyReference.cache
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\obj\Debug\netcoreapp2.0\3.Test_1.csproj.CoreCompileInputs.cache
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\obj\Debug\netcoreapp2.0\3.Test_1.AssemblyInfoInputs.cache
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\obj\Debug\netcoreapp2.0\3.Test_1.AssemblyInfo.cs
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\bin\Debug\netcoreapp2.0\3.Test_1.deps.json
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\bin\Debug\netcoreapp2.0\3.Test_1.runtimeconfig.json
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\bin\Debug\netcoreapp2.0\3.Test_1.runtimeconfig.dev.json
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\bin\Debug\netcoreapp2.0\3.Test_1.dll
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\bin\Debug\netcoreapp2.0\3.Test_1.pdb
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\obj\Debug\netcoreapp2.0\3.Test_1.dll
+C:\Users\Manu Teja\source\repos\3.Test_1\3.Test_1\obj\Debug\netcoreapp2.0\3.Test_1.pdb
