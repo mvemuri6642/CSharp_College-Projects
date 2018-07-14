@@ -1,0 +1,11 @@
+D:\repos\SimpleMethod\SimpleMethod\obj\Debug\netcoreapp2.0\SimpleMethod.csprojAssemblyReference.cache
+D:\repos\SimpleMethod\SimpleMethod\obj\Debug\netcoreapp2.0\SimpleMethod.csproj.CoreCompileInputs.cache
+D:\repos\SimpleMethod\SimpleMethod\obj\Debug\netcoreapp2.0\SimpleMethod.AssemblyInfoInputs.cache
+D:\repos\SimpleMethod\SimpleMethod\obj\Debug\netcoreapp2.0\SimpleMethod.AssemblyInfo.cs
+D:\repos\SimpleMethod\SimpleMethod\bin\Debug\netcoreapp2.0\SimpleMethod.deps.json
+D:\repos\SimpleMethod\SimpleMethod\bin\Debug\netcoreapp2.0\SimpleMethod.runtimeconfig.json
+D:\repos\SimpleMethod\SimpleMethod\bin\Debug\netcoreapp2.0\SimpleMethod.runtimeconfig.dev.json
+D:\repos\SimpleMethod\SimpleMethod\bin\Debug\netcoreapp2.0\SimpleMethod.dll
+D:\repos\SimpleMethod\SimpleMethod\bin\Debug\netcoreapp2.0\SimpleMethod.pdb
+D:\repos\SimpleMethod\SimpleMethod\obj\Debug\netcoreapp2.0\SimpleMethod.dll
+D:\repos\SimpleMethod\SimpleMethod\obj\Debug\netcoreapp2.0\SimpleMethod.pdb

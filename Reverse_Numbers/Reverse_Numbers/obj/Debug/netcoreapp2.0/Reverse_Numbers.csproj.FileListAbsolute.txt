@@ -1,0 +1,10 @@
+D:\repos\Reverse_Numbers\Reverse_Numbers\bin\Debug\netcoreapp2.0\Reverse_Numbers.deps.json
+D:\repos\Reverse_Numbers\Reverse_Numbers\bin\Debug\netcoreapp2.0\Reverse_Numbers.runtimeconfig.json
+D:\repos\Reverse_Numbers\Reverse_Numbers\bin\Debug\netcoreapp2.0\Reverse_Numbers.runtimeconfig.dev.json
+D:\repos\Reverse_Numbers\Reverse_Numbers\bin\Debug\netcoreapp2.0\Reverse_Numbers.dll
+D:\repos\Reverse_Numbers\Reverse_Numbers\bin\Debug\netcoreapp2.0\Reverse_Numbers.pdb
+D:\repos\Reverse_Numbers\Reverse_Numbers\obj\Debug\netcoreapp2.0\Reverse_Numbers.csproj.CoreCompileInputs.cache
+D:\repos\Reverse_Numbers\Reverse_Numbers\obj\Debug\netcoreapp2.0\Reverse_Numbers.AssemblyInfoInputs.cache
+D:\repos\Reverse_Numbers\Reverse_Numbers\obj\Debug\netcoreapp2.0\Reverse_Numbers.AssemblyInfo.cs
+D:\repos\Reverse_Numbers\Reverse_Numbers\obj\Debug\netcoreapp2.0\Reverse_Numbers.dll
+D:\repos\Reverse_Numbers\Reverse_Numbers\obj\Debug\netcoreapp2.0\Reverse_Numbers.pdb

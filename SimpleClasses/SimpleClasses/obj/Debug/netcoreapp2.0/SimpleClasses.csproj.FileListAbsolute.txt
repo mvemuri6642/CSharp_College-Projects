@@ -1,0 +1,11 @@
+D:\repos\SimpleClasses\SimpleClasses\bin\Debug\netcoreapp2.0\SimpleClasses.deps.json
+D:\repos\SimpleClasses\SimpleClasses\bin\Debug\netcoreapp2.0\SimpleClasses.runtimeconfig.json
+D:\repos\SimpleClasses\SimpleClasses\bin\Debug\netcoreapp2.0\SimpleClasses.runtimeconfig.dev.json
+D:\repos\SimpleClasses\SimpleClasses\bin\Debug\netcoreapp2.0\SimpleClasses.dll
+D:\repos\SimpleClasses\SimpleClasses\bin\Debug\netcoreapp2.0\SimpleClasses.pdb
+D:\repos\SimpleClasses\SimpleClasses\obj\Debug\netcoreapp2.0\SimpleClasses.csprojAssemblyReference.cache
+D:\repos\SimpleClasses\SimpleClasses\obj\Debug\netcoreapp2.0\SimpleClasses.csproj.CoreCompileInputs.cache
+D:\repos\SimpleClasses\SimpleClasses\obj\Debug\netcoreapp2.0\SimpleClasses.AssemblyInfoInputs.cache
+D:\repos\SimpleClasses\SimpleClasses\obj\Debug\netcoreapp2.0\SimpleClasses.AssemblyInfo.cs
+D:\repos\SimpleClasses\SimpleClasses\obj\Debug\netcoreapp2.0\SimpleClasses.dll
+D:\repos\SimpleClasses\SimpleClasses\obj\Debug\netcoreapp2.0\SimpleClasses.pdb

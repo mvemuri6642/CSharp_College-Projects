@@ -1,0 +1,11 @@
+D:\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp2.0\ObjectLifeTime.csprojAssemblyReference.cache
+D:\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp2.0\ObjectLifeTime.csproj.CoreCompileInputs.cache
+D:\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp2.0\ObjectLifeTime.AssemblyInfoInputs.cache
+D:\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp2.0\ObjectLifeTime.AssemblyInfo.cs
+D:\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp2.0\ObjectLifeTime.deps.json
+D:\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp2.0\ObjectLifeTime.runtimeconfig.json
+D:\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp2.0\ObjectLifeTime.runtimeconfig.dev.json
+D:\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp2.0\ObjectLifeTime.dll
+D:\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp2.0\ObjectLifeTime.pdb
+D:\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp2.0\ObjectLifeTime.dll
+D:\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp2.0\ObjectLifeTime.pdb
