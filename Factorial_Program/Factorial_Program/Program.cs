@@ -1,6 +1,3 @@
-//Dear Programmer,
-//When i Wrote this Code, only God and i Knew How it Worked!
-//but now only god knows it...
 using System;
 
 namespace Project
@@ -14,7 +11,7 @@ namespace Project
             while (displayMenu)
             {
                 displayMenu = MainMenu();
-            }
+            } 
         }
         private static bool MainMenu()
         {
@@ -23,7 +20,8 @@ namespace Project
             Console.WriteLine("1.Palindrome:");
             Console.WriteLine("2.Factorial:");
             Console.WriteLine("3.Armstrong Number");
-            Console.WriteLine("4.Exit");
+            Console.WriteLine("4.Fibonacci Series");
+            Console.WriteLine("5.Exit");
             string result = Console.ReadLine();
             if (result == "1")
             {
@@ -41,6 +39,11 @@ namespace Project
                 return true;
             }
             else if (result == "4")
+            {
+                Fibonacci_Series();
+                return true;
+            }
+            else if (result == "5")
             {
                 return false;
             }
@@ -107,6 +110,21 @@ namespace Project
             else
             {
                 Console.WriteLine("Not Armstrong Number!");
+            }
+            Console.ReadLine();
+        }
+        public static void Fibonacci_Series()
+        {
+            int f1 = 0, f2 = 1, f3 = 0, max, i;
+            Console.WriteLine("Enter max Value:");
+            max = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("{0}\n{1}", f1, f2);
+            for (i = 0; i <= max; i++)
+            {
+                f3 = f1 + f2;
+                Console.WriteLine(f3);
+                f1 = f2;
+                f2 = f3;
             }
             Console.ReadLine();
         }
