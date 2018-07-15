@@ -15,6 +15,7 @@ namespace Project
         }
         private static bool MainMenu()
         {
+            Console.Clear();
             Console.WriteLine("Choose a Number:");
             Console.WriteLine("1.Palindrome:");
             Console.WriteLine("2.Factorial:");
@@ -47,6 +48,7 @@ namespace Project
         }
         public static void Palindrome()
         {
+            Console.Clear();
             int n, temp, rev, s = 0;
             Console.WriteLine("Enter n Value:");
             n = Convert.ToInt32(Console.ReadLine());
@@ -69,6 +71,7 @@ namespace Project
         }
         public static void Factorial()
         {
+            Console.Clear();
             int i, number, fact;
             Console.WriteLine("Enter number:");
             number = Convert.ToInt32(Console.ReadLine());
@@ -83,6 +86,7 @@ namespace Project
         
         public static void Armstrong()
         {
+            Console.Clear();
             int n, tmp, sum = 0, r;
             Console.WriteLine("Enter n Value:");
             n = Convert.ToInt32(Console.ReadLine());
