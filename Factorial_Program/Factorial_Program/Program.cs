@@ -71,13 +71,13 @@ namespace Project
         {
             int i, number, fact;
             Console.WriteLine("Enter the Number");
-            number = int.Parse(Console.ReadLine());
+            number = Convert.ToInt32(Console.ReadLine());
             fact = number;
             for (i = number - 1; i >= 1; i--)
             {
                 fact = fact * i;
             }
-            Console.WriteLine("\nFactorial of Given Number is: " + fact);
+            Console.WriteLine("Factorial Number:{0}" ,fact);
             Console.ReadLine();
         }
         public static void Hello()
