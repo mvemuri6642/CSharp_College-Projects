@@ -1,0 +1,11 @@
+D:\repos\PAF2\PAF2\bin\Debug\netcoreapp2.0\PAF2.deps.json
+D:\repos\PAF2\PAF2\bin\Debug\netcoreapp2.0\PAF2.runtimeconfig.json
+D:\repos\PAF2\PAF2\bin\Debug\netcoreapp2.0\PAF2.runtimeconfig.dev.json
+D:\repos\PAF2\PAF2\bin\Debug\netcoreapp2.0\PAF2.dll
+D:\repos\PAF2\PAF2\bin\Debug\netcoreapp2.0\PAF2.pdb
+D:\repos\PAF2\PAF2\obj\Debug\netcoreapp2.0\PAF2.csprojAssemblyReference.cache
+D:\repos\PAF2\PAF2\obj\Debug\netcoreapp2.0\PAF2.csproj.CoreCompileInputs.cache
+D:\repos\PAF2\PAF2\obj\Debug\netcoreapp2.0\PAF2.AssemblyInfoInputs.cache
+D:\repos\PAF2\PAF2\obj\Debug\netcoreapp2.0\PAF2.AssemblyInfo.cs
+D:\repos\PAF2\PAF2\obj\Debug\netcoreapp2.0\PAF2.dll
+D:\repos\PAF2\PAF2\obj\Debug\netcoreapp2.0\PAF2.pdb
