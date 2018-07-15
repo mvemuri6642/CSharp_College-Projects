@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Project
 {
@@ -18,7 +18,7 @@ namespace Project
             Console.WriteLine("Choose a Number:");
             Console.WriteLine("1.Palindrome:");
             Console.WriteLine("2.Factorial:");
-            Console.WriteLine("3.Hello");
+            Console.WriteLine("3.Armstrong Number");
             Console.WriteLine("4.Exit");
             string result = Console.ReadLine();
             if (result == "1")
@@ -33,7 +33,7 @@ namespace Project
             }
             else if (result == "3")
             {
-                Hello();
+                Armstrong();
                 return true;
             }
             else if (result == "4")
@@ -70,21 +70,38 @@ namespace Project
         public static void Factorial()
         {
             int i, number, fact;
-            Console.WriteLine("Enter the Number");
+            Console.WriteLine("Enter number:");
             number = Convert.ToInt32(Console.ReadLine());
             fact = number;
-            for (i = number - 1; i >= 1; i--)
+            for (i = number-1; i >= 1; i--)
             {
                 fact = fact * i;
             }
-            Console.WriteLine("Factorial Number:{0}" ,fact);
+            Console.WriteLine("Factorial Number:{0}", fact);
             Console.ReadLine();
         }
-        public static void Hello()
+        
+        public static void Armstrong()
         {
-            Console.WriteLine("Hello");
+            int n, tmp, sum = 0, r;
+            Console.WriteLine("Enter n Value:");
+            n = Convert.ToInt32(Console.ReadLine());
+            tmp = n;
+            while (n != 0)
+            {
+                r = n % 10;
+                sum = sum + (r * r * r);
+                n = n / 10;
+            }
+            if (tmp == sum)
+            {
+                Console.WriteLine("Armstrong Number!");
+            }
+            else
+            {
+                Console.WriteLine("Not Armstrong Number!");
+            }
             Console.ReadLine();
         }
-
     }
 }
