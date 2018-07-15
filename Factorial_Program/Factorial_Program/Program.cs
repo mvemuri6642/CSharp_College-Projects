@@ -1,3 +1,6 @@
+//Dear Programmer,
+//When i Wrote this Code, only God and i Knew How it Worked!
+//but now only god knows it...
 using System;
 
 namespace Project
