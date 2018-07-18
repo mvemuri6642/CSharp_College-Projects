@@ -1,4 +1,7 @@
-﻿using System;
+//Dear Programmer,
+//When i Wrote this Code, only God and i Knew How it Worked!
+//but now only god knows it...
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
