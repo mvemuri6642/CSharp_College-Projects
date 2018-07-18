@@ -196,7 +196,7 @@ namespace AccessSpecifiers_ExceptionHandling
         }
     }
 
-    //Creating Custome Exception - OutofStockException
+    //Creating Custom Exception - OutofStockException
     public class OutofStockException : Exception
     {
         public OutofStockException(string message)
