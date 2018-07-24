@@ -1,0 +1,10 @@
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\bin\Debug\WindowsFormsAddition.exe.config
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\bin\Debug\WindowsFormsAddition.exe
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\bin\Debug\WindowsFormsAddition.pdb
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\obj\Debug\WindowsFormsAddition.csprojAssemblyReference.cache
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\obj\Debug\WindowsFormsAddition.Form1.resources
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\obj\Debug\WindowsFormsAddition.Properties.Resources.resources
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\obj\Debug\WindowsFormsAddition.csproj.GenerateResource.cache
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\obj\Debug\WindowsFormsAddition.csproj.CoreCompileInputs.cache
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\obj\Debug\WindowsFormsAddition.exe
+D:\Git\CSharp_College-Projects\WindowsFormsAddition\WindowsFormsAddition\obj\Debug\WindowsFormsAddition.pdb
